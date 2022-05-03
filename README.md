@@ -13,4 +13,4 @@ https://christys122.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Christy Salazar
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc 
